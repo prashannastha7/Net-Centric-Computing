@@ -15,7 +15,7 @@ To get started with using the materials in this repository, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-git clone
+git clone https://github.com/prashannastha7/Net-Centric-Computing
 
 2. **Navigate to Specific Folders**: Explore the contents of the repository by navigating to the respective folders.
 
@@ -30,5 +30,5 @@ If you'd like to contribute to this repository by adding more materials, fixing 
 
 ## Issues and Feedback
 
-If you encounter any issues with the materials or have feedback/suggestions for improvement, please [open an issue](https://github.com/prashannastha7) in this repository. We welcome your feedback and will address any issues promptly.
+If you encounter any issues with the materials or have feedback/suggestions for improvement, please [open an issue](https://github.com/prashannastha7/Net-Centric-Computing) in this repository. We welcome your feedback and will address any issues promptly.
 
